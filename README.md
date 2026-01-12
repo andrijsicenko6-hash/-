@@ -1,1 +1,1 @@
-"# Telegram Quiz App" 
+"Mini App for Telegram" 
